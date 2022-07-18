@@ -1,0 +1,22 @@
+Http
+Http (Hypertext transfer protocol) is an appliction protocol we using in browsing on the web. When we visit a web site it requires for a http server for example Http//www.google.com/search
+
+Protocols are often Http
+
+Http’s are protocols that’s built on top of TCP/IP protocols.
+
+TCP (Transmission Control Protocol) is the one of the main protocols of the internet protocol suite. TCP is a connection between client and the internet server, it’s establishment is sent before data can be sent. The server must listen to connection request from it’s client before it can send it’s connection establishment.
+
+IP(Internet protocol) it is a numerical label of numbers like 192.9.0 that is connected to the computer network/internet
+
+USE OF HTTP
+
+It is used to transmitt hypermedia documents,such as html.
+
+METHODS OF HTTP
+
+GET : This method requests a representation of specified resources.
+
+POST : This method is often used to create new resources.
+
+PATCH : This method is used to modify resources.
